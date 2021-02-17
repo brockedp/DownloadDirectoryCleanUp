@@ -1,0 +1,9 @@
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\bin\Debug\DirectoryCleanup.exe.config
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\bin\Debug\DirectoryCleanup.exe
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\bin\Debug\DirectoryCleanup.pdb
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\bin\Debug\Topshelf.dll
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\bin\Debug\Topshelf.xml
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\obj\Debug\DirectoryCleanup.csproj.CoreCompileInputs.cache
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\obj\Debug\DirectoryCleanup.csproj.CopyComplete
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\obj\Debug\DirectoryCleanup.exe
+C:\Users\dbrockert\Documents\Window Services\DirectoryCleanup\DirectoryCleanup\obj\Debug\DirectoryCleanup.pdb
